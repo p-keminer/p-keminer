@@ -7,12 +7,12 @@ Besonders stark beschäftige ich mich mit den aktuellen, rasant wachsenden Entwi
 ## Aktuelle und zukünftige Lern- und Schwerpunktbereiche
 
 - **C-Programmierung:** Pointer, dynamische Speicherverwaltung mit `malloc`, grundlegender Umgang mit Speicherfehlern sowie erste weiterführende Sprachmerkmale wie `enum`
-- **Hardwareverständnis und Mikrocontroller:** praktische Arbeit mit elektronischen Bauteilen, Schaltungen, Sensorik sowie Microcontroller-Plattformen
+- **Hardwareverständnis und Mikrocontroller:** praktische Arbeit mit elektronischen Bauteilen, Schaltungen, Sensorik sowie Microcontroller
 - **Cybersecurity / Pentesting:** grundlegende Einarbeitung in sicherheitsrelevante Denkweisen, Analyseansätze und erste praktische Konzepte
-- **Netzwerke, Schnittstellen und Datenpakete:** Grundlagen zu Kommunikation zwischen Systemen, Netzwerkverbindungen und Datenübertragung
-- **Linux und Distributionen:** Einarbeitung in Linux-Grundlagen, Shell/CLI-Verständnis und den praktischen Umgang mit verschiedenen Distributionen
-- **Python:** schrittweise Einarbeitung in Syntax, Programmierlogik und praktische Anwendungsfälle
-- **C++:** geplante vertiefte Einarbeitung in objektorientierte und systemnahe Programmierung
+- **Netzwerke, Schnittstellen und Datenpakete:** Kommunikation zwischen Systemen, Netzwerkverbindungen und Datenübertragung
+- **Linux und Distributionen:** Einarbeitung in Linux, Shell/CLI-Verständnis und den praktischen Umgang mit verschiedenen Distributionen
+- **Python:** Einarbeitung in Syntax, Programmierlogik und praktische Anwendungsfälle
+- **C++:** geplante Einarbeitung in objektorientierte und systemnahe Programmierung
 
 ## Ausgewählte Projekte
 - **[Logic Simulator Studio](https://github.com/p-keminer/logic-simulator-studio)** – Browserbasierter Simulator für digitale Logikschaltungen mit Timing-Analyse, FSM-Workflows und HDL-Export
@@ -45,11 +45,11 @@ I am particularly engaged with the current, rapidly growing developments in the 
 ## Current and Future Learning and Focus Areas
 
 - **C programming:** pointers, dynamic memory management with `malloc`, basic handling of memory errors, as well as first more advanced language features such as `enum`
-- **Hardware understanding and microcontrollers:** practical work with electronic components, circuits, sensors, and microcontroller platforms
+- **Hardware understanding and microcontrollers:** practical work with electronic components, circuits, sensors, and microcontroller
 - **Cybersecurity / pentesting:** basic familiarization with security-related ways of thinking, analysis approaches, and first practical concepts
-- **Networks, interfaces, and data packets:** fundamentals of communication between systems, network connections, and data transmission
+- **Networks, interfaces, and data packets:** communication between systems, network connections, and data transmission
 - **Linux and distributions:** familiarization with Linux fundamentals, shell/CLI understanding, and the practical use of different distributions
-- **Python:** step-by-step familiarization with syntax, programming logic, and practical use cases
+- **Python:** familiarization with syntax, programming logic, and practical use cases
 - **C++:** planned deeper familiarization with object-oriented and system-level programming
 
 ## Featured Projects
