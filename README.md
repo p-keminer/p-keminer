@@ -25,10 +25,10 @@ Besonders stark beschäftige ich mich mit den aktuellen, rasant wachsenden Entwi
 - Erste Konzepte für KI-gestützte Bewegungserkennung und Übertragung
 
 ## Tech / Tools
-- **Programming:** C, Python, C++ (planned)
+- **Programming:** C, Python, C++ (geplant)
 - **Embedded / Hardware:** ESP, Arduino, Raspberry Pi
 - **Tools / Workflow:** Git, GitHub, Linux, VS Code
-- **Electronics / CAD:** KiCad, Tinkercad, Fusion 360 (planned)
+- **Electronics / CAD:** KiCad, Tinkercad, Fusion 360 (geplant)
 - **AI Workflow:** Claude Code, Codex
 
 ## Ziel
