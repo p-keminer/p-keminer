@@ -19,9 +19,8 @@ Besonders stark beschäftige ich mich mit den aktuellen, rasant wachsenden Entwi
 - **[IoT Alarm System](https://github.com/p-keminer/iot-alarm-system)** – IoT-basierte Alarmanlage mit ESP8266-Nodes, Raspberry-Pi-Integration, eigenen PCBs und 3D-gedruckten Gehäusen
 
 ## Woran ich aktuell arbeite
-- Weiterentwicklung meines Logic-Simulators
+- Weiterentwicklung meines ferngesteuerten Roboterarms und weiteren Projekten
 - Ausbau meines technischen Portfolios
-- Planung eines Remote-Control-Roboterarm-Projekts
 - Erste Konzepte für KI-gestützte Bewegungserkennung und Übertragung
 
 ## Tech / Tools
