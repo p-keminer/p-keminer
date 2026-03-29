@@ -56,9 +56,8 @@ I am particularly engaged with the current, rapidly growing developments in the 
 - **[IoT Alarm System](https://github.com/p-keminer/iot-alarm-system)** – IoT-based alarm system with ESP8266 nodes, Raspberry Pi integration, custom PCBs, and 3D-printed enclosures
 
 ## What I’m Currently Working On
-- Further development of my logic simulator
+- Further development of my robotic arm project and other projects
 - Expanding my technical portfolio
-- Planning a remote-control robotic arm project
 - Initial concepts for AI-supported motion detection and transmission
 
 ## Tech / Tools
