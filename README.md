@@ -1,71 +1,120 @@
 # Hi, ich bin Philip 👋
+```
+Ich bin Quereinsteiger im Tech-Bereich und studiere aktuell Digitalisierung und Informationstechnik an der THGA Bochum.
 
-Ich bin ein technologiebegeisterter Quereinsteiger im Tech-Bereich mit besonderem Interesse an Security, Robotik, KI und praxisnaher Technikentwicklung. Aktuell stehe ich noch am Anfang meiner Reise und habe grade mein Studium Digitalisierung und Informationstechnik, an der THGA-Bochum angefangen. Eigene Projekte nutze ich, um mein Wissen Schritt für Schritt praktisch aufzubauen und mich intensiv in diese Themenfelder einzuarbeiten.
+Besonders interessieren mich die Bereiche **IT-Sicherheit, systemnahe Programmierung, Netzwerke und Embedded Systems**.
+```
+## Aktuelle Schwerpunkte
 
-Besonders stark beschäftige ich mich mit den aktuellen, rasant wachsenden Entwicklungen im Bereich der Künstlichen Intelligenz und Automation. Deshalb besteht mein Portfolio derzeit vor allem aus KI-Engineering-Projekten. Durch intensives, iteratives Experimentieren möchte ich die realen Möglichkeiten dieser Entwicklung besser verstehen und mir eine eigene, fundierte Perspektive auf dieses dynamische Themenfeld erarbeiten.
+* **Cybersecurity:** Grundlagen der IT-Sicherheit, Angriffsmethoden, Schwachstellenanalyse und defensive Sicherheitsmaßnahmen
+* **Netzwerke:** Netzwerkprotokolle, Datenpakete, Schnittstellen und Kommunikation zwischen Systemen
+* **Linux:** Administration, Shell, CLI-Tools, Dateisysteme, Benutzerrechte und Netzwerkdienste
+* **Windows und Active Directory:** Windows-Administration, Benutzer- und Rechteverwaltung sowie grundlegende AD-Konzepte
+* **PowerShell:** Syntax, Scripting und Automatisierung administrativer Aufgaben
+* **C und C++:** Systemnahe und objektorientierte Programmierung, Datenstrukturen und Speicherverwaltung
+* **Embedded Systems:** Mikrocontroller, Einplatinencomputer, Sensorik, Schnittstellen und hardwarenahe Entwicklung
 
-## Aktuelle und zukünftige Lern- und Schwerpunktbereiche
 
-- **C-Programmierung:** Pointer, dynamische Speicherverwaltung mit `malloc`, grundlegender Umgang mit Speicherfehlern sowie erste weiterführende Sprachmerkmale wie `enum`
-- **Hardwareverständnis und Mikrocontroller:** praktische Arbeit mit elektronischen Bauteilen, Schaltungen, Sensorik sowie Microcontroller
-- **Cybersecurity / Pentesting:** grundlegende Einarbeitung in sicherheitsrelevante Denkweisen, Analyseansätze und erste praktische Konzepte
-- **Netzwerke, Schnittstellen und Datenpakete:** Kommunikation zwischen Systemen, Netzwerkverbindungen und Datenübertragung
-- **Linux und Distributionen:** Einarbeitung in Linux, Shell/CLI-Verständnis und den praktischen Umgang mit verschiedenen Distributionen
-- **Python:** Einarbeitung in Syntax, Programmierlogik und praktische Anwendungsfälle
-- **C++:** geplante Einarbeitung in objektorientierte und systemnahe Programmierung
+## Projekte und praktische Erfahrungen
 
-## Ausgewählte Projekte
-- **[Logic Simulator Studio](https://github.com/p-keminer/logic-simulator-studio)** – Browserbasierter Simulator für digitale Logikschaltungen mit Timing-Analyse, FSM-Workflows und HDL-Export
-- **[IoT Alarm System](https://github.com/p-keminer/iot-alarm-system)** – IoT-basierte Alarmanlage mit ESP8266-Nodes, Raspberry-Pi-Integration, eigenen PCBs und 3D-gedruckten Gehäusen
+### Raspberry Pi und Netzwerksicherheit
 
-## Woran ich aktuell arbeite
-- Weiterentwicklung meines ferngesteuerten Roboterarms und weiteren Projekten
-- Ausbau meines technischen Portfolios
-- Erste Konzepte für KI-gestützte Bewegungserkennung und Übertragung
+Aufbau und Konfiguration eines Raspberry Pi Zero 2 W als Lernplattform für Linux, Netzwerkkommunikation und WLAN-Sicherheitskonzepte.
 
-## Tech / Tools
-- **Programming:** C, Python, C++ (geplant)
-- **Embedded / Hardware:** ESP, Arduino, Raspberry Pi
-- **Tools / Workflow:** Git, GitHub, Linux, VS Code
-- **Electronics / CAD:** KiCad, Tinkercad, Fusion 360 (geplant)
-- **AI Workflow:** Claude Code, Codex
+### ESP32 und Embedded Development
 
-## Ziel
->Mein langfristiges Ziel ist ein Masterabschluss sowie ein tiefes Verständnis großer, komplexer und interaktiver Systeme – mit besonderem Fokus auf Robotik, IoT, Security und KI.
+Entwicklung und Anpassung  ESP32-basierter Hardwareprojekte mit Displays, externen Antennen und verschiedenen Schnittstellen.
+
+
+
+## Tech Stack
+
+### Programmiersprachen
+
+`C` · `C++` · `Python` · `Bash` · `SQL` · `MATLAB`
+
+### Web-Grundlagen
+
+`HTML` · `CSS` · `Flask` · `Django` · `JavaScript`
+
+### Entwicklung und Design
+
+`KiCad` · `Tinkercad` · `CLion` · `PyCharm`  · `VS Code`  · `Git` · `GitHub`
+
+### Embedded und Hardware
+
+`ESP32` · `Arduino` · `Raspberry Pi`
+
+### Systeme 
+
+`Linux` · `Windows` 
+
+### KI-Tools
+
+`Codex` · `Claude Code`
+
+
+## Langfristiges Ziel
+
+> M.Sc Schwerpunkt Internetsicherheit sowie ein breites Verständnis komplexer und interaktiver Systeme.
+
 
 ---
 
+
 # Hi, I'm Philip 👋
 
-I am a tech enthusiast and career changer with a particular interest in security, robotics, AI, and hands-on technical development. I am still at the beginning of my journey and have just started studying Digitalization and Information Technology at THGA Bochum. I use my own projects to build my knowledge step by step in a practical way and to deepen my understanding of these fields.
+I am a career changer in the tech field and currently studying **Digitalization and Information Technology** at THGA Bochum.
 
-I am particularly engaged with the current, rapidly growing developments in the fields of artificial intelligence and automation. That is why my portfolio currently consists mainly of AI engineering projects. Through intensive experimentation and iteration, I want to better understand the real possibilities of this development and build my own well-founded perspective on this dynamic field.
+I am particularly interested in **IT security, systems programming, networks, and embedded systems**.
 
-## Current and Future Learning and Focus Areas
+## Current Focus Areas
 
-- **C programming:** pointers, dynamic memory management with `malloc`, basic handling of memory errors, as well as first more advanced language features such as `enum`
-- **Hardware understanding and microcontrollers:** practical work with electronic components, circuits, sensors, and microcontroller
-- **Cybersecurity / pentesting:** basic familiarization with security-related ways of thinking, analysis approaches, and first practical concepts
-- **Networks, interfaces, and data packets:** communication between systems, network connections, and data transmission
-- **Linux and distributions:** familiarization with Linux fundamentals, shell/CLI understanding, and the practical use of different distributions
-- **Python:** familiarization with syntax, programming logic, and practical use cases
-- **C++:** planned deeper familiarization with object-oriented and system-level programming
+* **Cybersecurity:** Fundamentals of IT security, attack methods, vulnerability analysis, and defensive security measures
+* **Networks:** Network protocols, data packets, interfaces, and communication between systems
+* **Linux:** Administration, shell, CLI tools, file systems, user permissions, and network services
+* **Windows and Active Directory:** Windows administration, user and permission management, as well as basic AD concepts
+* **PowerShell:** Syntax, scripting, and automation of administrative tasks
+* **C and C++:** Systems programming and object-oriented programming, data structures, and memory management
+* **Embedded Systems:** Microcontrollers, single-board computers, sensors, interfaces, and hardware-related development
 
-## Featured Projects
-- **[Logic Simulator Studio](https://github.com/p-keminer/logic-simulator-studio)** – Browser-based simulator for digital logic circuits with timing analysis, FSM workflows, and HDL export
-- **[IoT Alarm System](https://github.com/p-keminer/iot-alarm-system)** – IoT-based alarm system with ESP8266 nodes, Raspberry Pi integration, custom PCBs, and 3D-printed enclosures
+## Projects and Practical Experience
 
-## What I’m Currently Working On
-- Further development of my robotic arm project and other projects
-- Expanding my technical portfolio
-- Initial concepts for AI-supported motion detection and transmission
+### Raspberry Pi and Network Security
 
-## Tech / Tools
-- **Programming:** C, Python, C++ (planned)
-- **Embedded / Hardware:** ESP, Arduino, Raspberry Pi
-- **Tools / Workflow:** Git, GitHub, Linux, VS Code
-- **Electronics / CAD:** KiCad, Tinkercad, Fusion 360 (planned)
-- **AI Workflow:** Claude Code, Codex
+Setup and configuration of a Raspberry Pi Zero 2 W as a learning platform for Linux, network communication, and Wi-Fi security concepts.
 
-## Goal
-> My long-term goal is to earn a master’s degree and develop a deep understanding of large, complex, and interactive systems – with a particular focus on robotics, IoT, security, and AI.
+### ESP32 and Embedded Development
+
+Development and modification of ESP32-based hardware projects with displays, external antennas, and different interfaces.
+
+## Tech Stack
+
+### Programming Languages
+
+`C` · `C++` · `Python` · `Bash` · `SQL` · `MATLAB`
+
+### Web Fundamentals
+
+`HTML` · `CSS` · `Flask` · `Django` · `JavaScript`
+
+### Development and Design
+
+`KiCad` · `Tinkercad` · `CLion` · `PyCharm` · `VS Code` · `Git` · `GitHub`
+
+### Embedded and Hardware
+
+`ESP32` · `Arduino` · `Raspberry Pi`
+
+### Operating Systems
+
+`Linux` · `Windows`
+
+### AI Tools
+
+`Codex` · `Claude Code`
+
+## Long-Term Goal
+
+> M.Sc. with a focus on Internet Security, as well as a broad understanding of complex and interactive systems.
+
